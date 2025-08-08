@@ -3,7 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance_Exercise/Inheritance_Exercise.iml" filepath="$PROJECT_DIR$/Inheritance_Exercise/Inheritance_Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfacesAndAbstractionExercise/InterfacesAndAbstractionExercise.iml" filepath="$PROJECT_DIR$/InterfacesAndAbstractionExercise/InterfacesAndAbstractionExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfacesAndAbstractions/InterfacesAndAbstractions.iml" filepath="$PROJECT_DIR$/InterfacesAndAbstractions/InterfacesAndAbstractions.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaOOP.iml" filepath="$PROJECT_DIR$/JavaOOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/WorkingWithAbstractions/WorkingWithAbstractions.iml" filepath="$PROJECT_DIR$/WorkingWithAbstractions/WorkingWithAbstractions.iml" />
       <module fileurl="file://$PROJECT_DIR$/WorkingWithAbstractionsExercise/WorkingWithAbstractionsExercise.iml" filepath="$PROJECT_DIR$/WorkingWithAbstractionsExercise/WorkingWithAbstractionsExercise.iml" />
     </modules>
