@@ -5,18 +5,67 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f53c285-7adb-459d-95b0-2917817ac111" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PolymorphismExe/src/Vehicles/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PolymorphismExe/src/calculator/DivisionOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PolymorphismExe/src/calculator/ExtendedInterpreter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PolymorphismExe/src/calculator/Extensions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PolymorphismExe/src/calculator/MemoryRecallOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PolymorphismExe/src/calculator/MemoryStoreOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionHandling/src/EnterNumbers_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionHandling/src/MyCustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionHandling/src/NumberInRange_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionHandling/src/SquareRoot_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReflectionAndAnnotationExercise/ReflectionAndAnnotationExercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReflectionAndAnnotationExercise/src/Exe_03/barracksWars/core/commands/ADD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReflectionAndAnnotationExercise/src/Exe_03/barracksWars/core/commands/FIGHT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReflectionAndAnnotationExercise/src/Exe_03/barracksWars/core/commands/REPORT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReflectionAndAnnotationExercise/src/Exe_03/barracksWars/core/commands/RETIRE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReflectionAndAnnotationExercise/src/Exe_03/barracksWars/models/units/Gunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReflectionAndAnnotationExercise/src/Exe_03/barracksWars/models/units/Horseman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReflectionAndAnotation/ReflectionAndAnotation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReflectionAndAnotation/src/EXE_02/ComparatorMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReflectionAndAnotation/src/EXE_02/Exercise_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReflectionAndAnotation/src/Exe_04/CreateAnnotation_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReflectionAndAnotation/src/Exe_04/FieldType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReflectionAndAnotation/src/Exe_04/MyAnnotationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReflectionAndAnotation/src/Exe_04/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReflectionAndAnotation/src/Exe_05/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReflectionAndAnotation/src/Exe_05/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReflectionAndAnotation/src/Exe_05/Reflection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReflectionAndAnotation/src/Exercise_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReflectionAndAnotation/src/Exercise_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/SOLID.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/src/solid/Calculators/CalorieCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/src/solid/Calculators/QuantityCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/src/solid/Cloud.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/src/solid/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/src/solid/products/Chips.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/src/solid/products/Chocolate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/src/solid/products/Coke.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/src/solid/products/Drinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/src/solid/products/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/src/solid/products/Lemonade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID/src/solid/products/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PolymorphismExe/src/Vehicles/AbstractVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/PolymorphismExe/src/Vehicles/AbstractVehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PolymorphismExe/src/Vehicles/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/PolymorphismExe/src/Vehicles/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PolymorphismExe/src/Vehicles/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/PolymorphismExe/src/Vehicles/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PolymorphismExe/src/Vehicles/Truck.java" beforeDir="false" afterPath="$PROJECT_DIR$/PolymorphismExe/src/Vehicles/Truck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PolymorphismExe/src/Vehicles/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/PolymorphismExe/src/Vehicles/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTesting/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTesting/src/main/java/org/example/Axe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTesting/src/main/java/org/example/Dummy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTesting/src/main/java/org/example/Hero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTesting/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTesting/src/main/java/org/example/Target.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTesting/src/main/java/org/example/Weapon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTesting/src/test/java/org/example/TestAxe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTesting/src/test/java/org/example/TestDummy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTesting/src/test/java/org/example/TestHero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTesting/target/classes/org/example/Axe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTesting/target/classes/org/example/Dummy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTesting/target/classes/org/example/Hero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTesting/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTesting/target/classes/org/example/Target.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTesting/target/classes/org/example/Weapon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTesting/target/test-classes/org/example/TestAxe$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTesting/target/test-classes/org/example/TestAxe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTesting/target/test-classes/org/example/TestDummy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTesting/target/test-classes/org/example/TestHero.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +78,8 @@
         <option value="Enum" />
         <option value="Test" />
         <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Exception" />
         <option value="Class" />
       </list>
     </option>
@@ -59,116 +110,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PO1Rhombus.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.TestAxe.test_AttackingWith_BrokenExe.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.TestAxe.test_Axe_losesDurability_afterEveryAttack.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.TestDummy.test_AliveDummy_LosesHealth_AfterAttack.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.TestDummy.test_DeadDummy_throwsException_AfterAttack.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.TestHero.test_Hero_Gets_Experience_AfterTargetDies.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.java in UnitTesting.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Sub&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/georg/JavaOOP/PolymorphismExe/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CreateAnnotation_04.executor": "Debug",
+    "Application.EnterNumbers_03.executor": "Run",
+    "Application.Exercise_01.executor": "Run",
+    "Application.Exercise_02.executor": "Run",
+    "Application.Exercise_03.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.NumberInRange_01.executor": "Run",
+    "Application.PO1Rhombus.executor": "Run",
+    "Application.SquareRoot_02.executor": "Run",
+    "JUnit.TestAxe.test_AttackingWith_BrokenExe.executor": "Run",
+    "JUnit.TestAxe.test_Axe_losesDurability_afterEveryAttack.executor": "Run",
+    "JUnit.TestDummy.test_AliveDummy_LosesHealth_AfterAttack.executor": "Run",
+    "JUnit.TestDummy.test_DeadDummy_throwsException_AfterAttack.executor": "Run",
+    "JUnit.TestHero.test_Hero_Gets_Experience_AfterTargetDies.executor": "Run",
+    "JUnit.java in UnitTesting.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "Sub",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/georg/JavaOOP/JUnit/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\georg\JavaOOP\ReflectionAndAnnotationExercise\src\Exe_03" />
+      <recent name="C:\Users\georg\JavaOOP\ReflectionAndAnnotationExercise\src\Exe_02" />
+      <recent name="C:\Users\georg\JavaOOP\ReflectionAndAnnotationExercise\src\Exe_01" />
+      <recent name="C:\Users\georg\JavaOOP\ReflectionAndAnotation\src" />
       <recent name="C:\Users\georg\JavaOOP\PolymorphismExe\src" />
-      <recent name="C:\Users\georg\JavaOOP\UnitTesting\src\main\java\org\example" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="TestDummy.test_AliveDummy_CannotGiveExperience" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="UnitTesting" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.TestDummy" />
-      <option name="METHOD_NAME" value="test_AliveDummy_CannotGiveExperience" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestDummy.test_DeadDummy_CanGiveExperience" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="UnitTesting" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.TestDummy" />
-      <option name="METHOD_NAME" value="test_DeadDummy_CanGiveExperience" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestDummy.test_DeadDummy_throwsException_AfterAttack" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="UnitTesting" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.TestDummy" />
-      <option name="METHOD_NAME" value="test_DeadDummy_throwsException_AfterAttack" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestHero.test_Hero_Gets_Experience_AfterTargetDies" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="UnitTesting" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.TestHero" />
-      <option name="METHOD_NAME" value="test_Hero_Gets_Experience_AfterTargetDies" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="java in UnitTesting" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="UnitTesting" />
-      <option name="TEST_OBJECT" value="directory" />
-      <dir value="$PROJECT_DIR$/UnitTesting/src/test/java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.java in UnitTesting" />
-        <item itemvalue="JUnit.TestHero.test_Hero_Gets_Experience_AfterTargetDies" />
-        <item itemvalue="JUnit.TestDummy.test_AliveDummy_CannotGiveExperience" />
-        <item itemvalue="JUnit.TestDummy.test_DeadDummy_CanGiveExperience" />
-        <item itemvalue="JUnit.TestDummy.test_DeadDummy_throwsException_AfterAttack" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -229,6 +207,25 @@
           <url>file://$PROJECT_DIR$/UnitTesting/src/main/java/org/example/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ReflectionAndAnotation/src/Exe_04/CreateAnnotation_04.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ReflectionAndAnnotationExercise/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/ReflectionAndAnnotationExercise/src/Exe_03/barracksWars/core/Engine.java</url>
+          <line>25</line>
+          <properties class="Exe_03.barracksWars.core.Engine" method="run">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
