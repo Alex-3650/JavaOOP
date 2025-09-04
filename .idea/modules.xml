@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" filepath="$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance_Exercise/Inheritance_Exercise.iml" filepath="$PROJECT_DIR$/Inheritance_Exercise/Inheritance_Exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/InterfacesAndAbstractionExercise/InterfacesAndAbstractionExercise.iml" filepath="$PROJECT_DIR$/InterfacesAndAbstractionExercise/InterfacesAndAbstractionExercise.iml" />
@@ -10,6 +11,9 @@
       <module fileurl="file://$PROJECT_DIR$/JavaOOP.iml" filepath="$PROJECT_DIR$/JavaOOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/PolymorphismExe/PolymorphismExe.iml" filepath="$PROJECT_DIR$/PolymorphismExe/PolymorphismExe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReflectionAndAnnotationExercise/ReflectionAndAnnotationExercise.iml" filepath="$PROJECT_DIR$/ReflectionAndAnnotationExercise/ReflectionAndAnnotationExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReflectionAndAnotation/ReflectionAndAnotation.iml" filepath="$PROJECT_DIR$/ReflectionAndAnotation/ReflectionAndAnotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID/SOLID.iml" filepath="$PROJECT_DIR$/SOLID/SOLID.iml" />
       <module fileurl="file://$PROJECT_DIR$/WorkingWithAbstractions/WorkingWithAbstractions.iml" filepath="$PROJECT_DIR$/WorkingWithAbstractions/WorkingWithAbstractions.iml" />
       <module fileurl="file://$PROJECT_DIR$/WorkingWithAbstractionsExercise/WorkingWithAbstractionsExercise.iml" filepath="$PROJECT_DIR$/WorkingWithAbstractionsExercise/WorkingWithAbstractionsExercise.iml" />
     </modules>
