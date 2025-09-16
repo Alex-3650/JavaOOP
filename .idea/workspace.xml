@@ -5,67 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f53c285-7adb-459d-95b0-2917817ac111" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExceptionHandling/src/EnterNumbers_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExceptionHandling/src/MyCustomException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExceptionHandling/src/NumberInRange_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExceptionHandling/src/SquareRoot_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReflectionAndAnnotationExercise/ReflectionAndAnnotationExercise.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReflectionAndAnnotationExercise/src/Exe_03/barracksWars/core/commands/ADD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReflectionAndAnnotationExercise/src/Exe_03/barracksWars/core/commands/FIGHT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReflectionAndAnnotationExercise/src/Exe_03/barracksWars/core/commands/REPORT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReflectionAndAnnotationExercise/src/Exe_03/barracksWars/core/commands/RETIRE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReflectionAndAnnotationExercise/src/Exe_03/barracksWars/models/units/Gunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReflectionAndAnnotationExercise/src/Exe_03/barracksWars/models/units/Horseman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReflectionAndAnotation/ReflectionAndAnotation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReflectionAndAnotation/src/EXE_02/ComparatorMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReflectionAndAnotation/src/EXE_02/Exercise_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReflectionAndAnotation/src/Exe_04/CreateAnnotation_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReflectionAndAnotation/src/Exe_04/FieldType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReflectionAndAnotation/src/Exe_04/MyAnnotationExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReflectionAndAnotation/src/Exe_04/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReflectionAndAnotation/src/Exe_05/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReflectionAndAnotation/src/Exe_05/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReflectionAndAnotation/src/Exe_05/Reflection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReflectionAndAnotation/src/Exercise_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReflectionAndAnotation/src/Exercise_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/SOLID.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/src/solid/Calculators/CalorieCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/src/solid/Calculators/QuantityCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/src/solid/Cloud.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/src/solid/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/src/solid/products/Chips.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/src/solid/products/Chocolate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/src/solid/products/Coke.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/src/solid/products/Drinks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/src/solid/products/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/src/solid/products/Lemonade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID/src/solid/products/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUnit/src/main/java/rpg_lab/Axe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUnit/src/main/java/rpg_lab/Dummy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUnit/src/main/java/rpg_lab/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUnit/src/test/java/rpg_lab/AxeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUnit/src/test/java/rpg_lab/DummyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JunitExercise/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JunitExercise/src/test/java/AlarmTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JunitExercise/src/test/java/BubbleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JunitExercise/src/test/java/DatabaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JunitExercise/src/test/java/ExtendedDatabaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestDrivenDevelopment/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestDrivenDevelopment/src/main/java/org/example/Instock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestDrivenDevelopment/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestDrivenDevelopment/src/main/java/org/example/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestDrivenDevelopment/src/main/java/org/example/ProductStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestDrivenDevelopment/src/test/java/org/example/InstockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestDrivenDevelopmentExercise/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestDrivenDevelopmentExercise/src/main/java/org/example/Chainblock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestDrivenDevelopmentExercise/src/main/java/org/example/ChainblockImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestDrivenDevelopmentExercise/src/main/java/org/example/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestDrivenDevelopmentExercise/src/main/java/org/example/TransactionImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestDrivenDevelopmentExercise/src/main/java/org/example/TransactionStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestDrivenDevelopmentExercise/src/test/java/AddAndContainUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestDrivenDevelopmentExercise/src/test/java/ChangeTransactionStatusTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestDrivenDevelopmentExercise/src/test/java/GetAllOrderedByAmountDescendingThenById_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestDrivenDevelopmentExercise/src/test/java/GetAllReceiversWithTransactionStatusTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestDrivenDevelopmentExercise/src/test/java/GetAllSendersWithTransactionStatusTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestDrivenDevelopmentExercise/src/test/java/GetByIdTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestDrivenDevelopmentExercise/src/test/java/GetByTransactionStatusTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestDrivenDevelopmentExercise/src/test/java/RemoveTransactionByIdTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTesting/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTesting/src/main/java/org/example/Axe.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTesting/src/main/java/org/example/Dummy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTesting/src/main/java/org/example/Hero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTesting/src/main/java/org/example/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTesting/src/main/java/org/example/Target.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTesting/src/main/java/org/example/Weapon.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTesting/src/test/java/org/example/TestAxe.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTesting/src/test/java/org/example/TestDummy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTesting/src/test/java/org/example/TestHero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTesting/target/classes/org/example/Axe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTesting/target/classes/org/example/Dummy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTesting/target/classes/org/example/Hero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTesting/target/classes/org/example/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTesting/target/classes/org/example/Target.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTesting/target/classes/org/example/Weapon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTesting/target/test-classes/org/example/TestAxe$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTesting/target/test-classes/org/example/TestAxe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTesting/target/test-classes/org/example/TestDummy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTesting/target/test-classes/org/example/TestHero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JUnit/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JUnit/src/main/java/org/example/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +55,8 @@
         <option value="Interface" />
         <option value="AnnotationType" />
         <option value="Exception" />
+        <option value="JUnit4 Test Class" />
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -99,6 +76,9 @@
     &quot;accountId&quot;: &quot;77c3d30e-f1df-4dc0-a952-e68740a1b455&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/TestDrivenDevelopment/src/test/java/org/example/InstockTest.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -121,6 +101,75 @@
     "Application.NumberInRange_01.executor": "Run",
     "Application.PO1Rhombus.executor": "Run",
     "Application.SquareRoot_02.executor": "Run",
+    "JUnit.AddAndContainUnitTest.test_addMultipleTransaction_SaveOnlyUnique_AndContainThemSuccessfullyInTheDatabase.executor": "Run",
+    "JUnit.AddUnitTest.test_addMultipleTransaction_SaveOnlyUnique.executor": "Run",
+    "JUnit.AlarmTest.executor": "Coverage",
+    "JUnit.AlarmTest.test_tirePressureIsMoreThan21_ThenAlarmIsOn.executor": "Run",
+    "JUnit.AlarmTest.test_whenTirePressureIsBetween17And21_ThenAlarmIsOff.executor": "Run",
+    "JUnit.AlarmTest.test_whenTirePressureIsLess17_ThenAlarmIsOn.executor": "Run",
+    "JUnit.AlarmTest.test_whenTirePressureIsOver21_ThenAlarmIsOn (1).executor": "Run",
+    "JUnit.AlarmTest.test_whenTirePressureIsOver21_ThenAlarmIsOn.executor": "Run",
+    "JUnit.AxeTest.axe_Attack_WhenBroken_Throws.executor": "Run",
+    "JUnit.AxeTest.axe_losesDurability_afterEvery_attack.executor": "Run",
+    "JUnit.AxeTest.test.executor": "Run",
+    "JUnit.BubbleUnitTest.test_whenProvideUnorderedArrayOfNumbers_ThenOrderTheArray.executor": "Coverage",
+    "JUnit.ChangeTransactionStatusTest.test_changeNotExistingStatus_Throw.executor": "Run",
+    "JUnit.ChangeTransactionStatusTest.test_changeStatus_Successfully.executor": "Run",
+    "JUnit.DatabaseTest.executor": "Coverage",
+    "JUnit.DatabaseTest.test_addNullValue_ExceptionThrown.executor": "Run",
+    "JUnit.DatabaseTest.test_addNullValue_ThrowException.executor": "Run",
+    "JUnit.DatabaseTest.test_addValueInTheEndOfTheArray_Successfully.executor": "Run",
+    "JUnit.DatabaseTest.test_addValue_Successfully.executor": "Run",
+    "JUnit.DatabaseTest.test_creating_DatabaseConstructor_over16elements.executor": "Run",
+    "JUnit.DatabaseTest.test_creating_Database_0elements_ExceptionThrown.executor": "Run",
+    "JUnit.DatabaseTest.test_creating_Database_Between0And16Elements_Successful.executor": "Run",
+    "JUnit.DatabaseTest.test_creating_Database_over16elements_ExceptionThrown.executor": "Run",
+    "JUnit.DatabaseTest.test_creating_EmptyDatabase_ExceptionThrown.executor": "Run",
+    "JUnit.DatabaseTest.test_removeOperationInEmptyArray_ExceptionThrown.executor": "Run",
+    "JUnit.DatabaseTest.test_removeValueInTheArray_Successfully.executor": "Run",
+    "JUnit.DummyTest.aliveDummy_cannot_GiveExperience.executor": "Run",
+    "JUnit.DummyTest.deadDummy_Throws_WhenAttacked.executor": "Run",
+    "JUnit.DummyTest.deadDummy_cannot_GiveExperience.executor": "Run",
+    "JUnit.DummyTest.dummy_loseHealth_onAttack.executor": "Run",
+    "JUnit.ExtendedDatabaseTest.executor": "Coverage",
+    "JUnit.ExtendedDatabaseTest.test_findExistingPersonById_Successful.executor": "Run",
+    "JUnit.ExtendedDatabaseTest.test_findNotExistingPersonByUsername_Throw.executor": "Run",
+    "JUnit.ExtendedDatabaseTest.test_findPersonByUsername_EnterNull_Throw.executor": "Run",
+    "JUnit.ExtendedDatabaseTest.test_findPersonByUsername_Successfully.executor": "Run",
+    "JUnit.ExtendedDatabaseTest.test_findUnexistingPersonById_Successful.executor": "Run",
+    "JUnit.GetAllOrderedByAmountDescendingThenById_Test.test_WhenThereAreMultipleTransactions_GetAllOrderedByAmountDescendingThenById.executor": "Run",
+    "JUnit.GetAllReceiversWithTransactionStatusTest.test_whenTransactionExistWithThisStatus_ThenReturnThem.executor": "Run",
+    "JUnit.GetAllSendersWithTransactionStatusTest.executor": "Run",
+    "JUnit.GetAllSendersWithTransactionStatusTest.test_whenTransactionDoNotExistWithThisStatus_ThenReturnException.executor": "Run",
+    "JUnit.GetAllSendersWithTransactionStatusTest.test_whenTransactionExistWithThisStatus_ThenReturnThem.executor": "Debug",
+    "JUnit.GetByIdTest.executor": "Run",
+    "JUnit.GetByIdTest.test_Successfully_TryToGetTransactionById.executor": "Run",
+    "JUnit.GetByTransactionStatusTest.test_whenTransactionDoNotExistWithThisStatus_ThenReturnException.executor": "Run",
+    "JUnit.GetByTransactionStatusTest.test_whenTransactionExistWithThisStatus_ThenReturnThem.executor": "Run",
+    "JUnit.InStockTest.executor": "Run",
+    "JUnit.InStockTest.test_findAllByPrice_ReturnsEmptyCollection_NothingMatchesThePriceGiven.executor": "Run",
+    "JUnit.InStockTest.test_findAllByPrice_ReturnsEmptyCollecton_NothingMatchesThePriceGiven.executor": "Run",
+    "JUnit.InStockTest.test_findAllByQuantity_ShouldReturnEmptyList_IfNotMatch.executor": "Run",
+    "JUnit.InStockTest.test_findAllInPriceRange_ShouldReturnCorrectRange.executor": "Run",
+    "JUnit.InStockTest.test_findAllInPriceRange_ShouldReturnEmptyCollection_IfNoneInRange.executor": "Run",
+    "JUnit.InStockTest.test_findAllInPriceRange_ShouldReturnProductsInCorrectOrder.executor": "Run",
+    "JUnit.InStockTest.test_findFirstByAlphabeticalOrder_ShouldReturnCorrectNumberOfProducts.executor": "Run",
+    "JUnit.InStockTest.test_findFirstByAlphabeticalOrder_ShouldReturnCorrectNumberOfProducts_WhenNotEnoughProducts.executor": "Run",
+    "JUnit.InStockTest.test_findFirstMostExpensiveProducts_ShouldThrow_IfLessProductsInStock.executor": "Run",
+    "JUnit.InstockTest.executor": "Run",
+    "JUnit.InstockTest.test_CountReturns_CorrectSize.executor": "Run",
+    "JUnit.InstockTest.test_addAndContainsProduct_ShouldReturn_CorrectResult_BeforeAndAfterAddition.executor": "Run",
+    "JUnit.InstockTest.test_addProduct_ShouldContainAfter.executor": "Run",
+    "JUnit.InstockTest.test_changeQuantity_ThrowsIfFound.executor": "Run",
+    "JUnit.InstockTest.test_changeQuantity_WithExistingProduct.executor": "Run",
+    "JUnit.InstockTest.test_findByLabel_ShouldReturnCorrectProduct.executor": "Run",
+    "JUnit.InstockTest.test_findByLabel_Throw_WhenProductIsMissing.executor": "Run",
+    "JUnit.InstockTest.test_findReturns_CorrectProduct.executor": "Run",
+    "JUnit.InstockTest.test_findReturns_CorrectProduct_WithMultipleProducts.executor": "Run",
+    "JUnit.InstockTest.test_findThrows_WithInvalidIndex.executor": "Run",
+    "JUnit.InstockTest.test_findThrows_WithNegativeIndex.executor": "Run",
+    "JUnit.RemoveTransactionByIdTest.executor": "Run",
+    "JUnit.RemoveTransactionByIdTest.test_RemoveTransactionWithExistingId_Successfully.executor": "Run",
     "JUnit.TestAxe.test_AttackingWith_BrokenExe.executor": "Run",
     "JUnit.TestAxe.test_Axe_losesDurability_afterEveryAttack.executor": "Run",
     "JUnit.TestDummy.test_AliveDummy_LosesHealth_AfterAttack.executor": "Run",
@@ -130,23 +179,96 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "git-widget-placeholder": "Sub",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/georg/JavaOOP/JUnit/src/main/java/org/example/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/georg/JavaOOP/TestDrivenDevelopmentExercise/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\georg\JavaOOP\ReflectionAndAnnotationExercise\src\Exe_03" />
-      <recent name="C:\Users\georg\JavaOOP\ReflectionAndAnnotationExercise\src\Exe_02" />
-      <recent name="C:\Users\georg\JavaOOP\ReflectionAndAnnotationExercise\src\Exe_01" />
-      <recent name="C:\Users\georg\JavaOOP\ReflectionAndAnotation\src" />
-      <recent name="C:\Users\georg\JavaOOP\PolymorphismExe\src" />
+      <recent name="C:\Users\georg\JavaOOP\TestDrivenDevelopmentExercise\src\main\java\org\example" />
+      <recent name="C:\Users\georg\JavaOOP\JunitExercise" />
+      <recent name="C:\Users\georg\JavaOOP\JunitExercise\src\main\java" />
+      <recent name="C:\Users\georg\JavaOOP" />
+      <recent name="C:\Users\georg\JavaOOP\JUnit\src\main\java" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.example" />
+      <recent name="rpg_lab" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.GetAllOrderedByAmountDescendingThenById_Test.test_WhenThereAreMultipleTransactions_GetAllOrderedByAmountDescendingThenById">
+    <configuration name="GetAllOrderedByAmountDescendingThenById_Test.test_WhenThereAreMultipleTransactions_GetAllOrderedByAmountDescendingThenById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestDrivenDevelopmentExercise" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GetAllOrderedByAmountDescendingThenById_Test" />
+      <option name="METHOD_NAME" value="test_WhenThereAreMultipleTransactions_GetAllOrderedByAmountDescendingThenById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetAllReceiversWithTransactionStatusTest.test_whenTransactionExistWithThisStatus_ThenReturnThem" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestDrivenDevelopmentExercise" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GetAllReceiversWithTransactionStatusTest" />
+      <option name="METHOD_NAME" value="test_whenTransactionExistWithThisStatus_ThenReturnThem" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetAllReceiversWithTransactionStatusTest.test_whenTransactionNotExist_Throw" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestDrivenDevelopmentExercise" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GetAllReceiversWithTransactionStatusTest" />
+      <option name="METHOD_NAME" value="test_whenTransactionNotExist_Throw" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetAllSendersWithTransactionStatusTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestDrivenDevelopmentExercise" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GetAllSendersWithTransactionStatusTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetAllSendersWithTransactionStatusTest.test_whenTransactionExistWithThisStatus_ThenReturnThem" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestDrivenDevelopmentExercise" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GetAllSendersWithTransactionStatusTest" />
+      <option name="METHOD_NAME" value="test_whenTransactionExistWithThisStatus_ThenReturnThem" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GetAllOrderedByAmountDescendingThenById_Test.test_WhenThereAreMultipleTransactions_GetAllOrderedByAmountDescendingThenById" />
+        <item itemvalue="JUnit.GetAllReceiversWithTransactionStatusTest.test_whenTransactionNotExist_Throw" />
+        <item itemvalue="JUnit.GetAllReceiversWithTransactionStatusTest.test_whenTransactionExistWithThisStatus_ThenReturnThem" />
+        <item itemvalue="JUnit.GetAllSendersWithTransactionStatusTest" />
+        <item itemvalue="JUnit.GetAllSendersWithTransactionStatusTest.test_whenTransactionExistWithThisStatus_ThenReturnThem" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -218,6 +340,26 @@
           <line>11</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JunitExercise/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JunitExercise/src/main/java/p02_ExtendedDatabase/Database.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TestDrivenDevelopmentExercise/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TestDrivenDevelopmentExercise/src/test/java/GetAllSendersWithTransactionStatusTest.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/ReflectionAndAnnotationExercise/src/Exe_03/barracksWars/core/Engine.java</url>
           <line>25</line>
@@ -227,7 +369,31 @@
           </properties>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/JunitExercise/src/test/java/TirePressure_Test/AlarmTest.java</url>
+          <line>18</line>
+          <properties class="TirePressure_Test.AlarmTest">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/JunitExercise/src/main/java/p02_ExtendedDatabase/Database.java</url>
+          <line>50</line>
+          <properties class="p02_ExtendedDatabase.Database" method="findByUsername">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaOOP$BubbleUnitTest_test_whenProvideUnorderedArrayOfNumbers_ThenOrderTheArray.ic" NAME="BubbleUnitTest.test_whenProvideUnorderedArrayOfNumbers_ThenOrderTheArray Coverage Results" MODIFIED="1757425678203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/JavaOOP$ExtendedDatabaseTest.ic" NAME="ExtendedDatabaseTest Coverage Results" MODIFIED="1757425691546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/JavaOOP$DatabaseTest.ic" NAME="DatabaseTest Coverage Results" MODIFIED="1757425647503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/JavaOOP$AlarmTest.ic" NAME="AlarmTest Coverage Results" MODIFIED="1757425616903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
   </component>
 </project>

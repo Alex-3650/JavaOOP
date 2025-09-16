@@ -6,12 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="TestDrivenDevelopment" />
         <module name="ExamPreparation" />
+        <module name="TestDrivenDevelopmentExercise" />
         <module name="JUnit" />
+        <module name="JunitExercise (1)" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="UnitTesting" target="24" />
+    <bytecodeTargetLevel target="21">
+      <module name="TestDrivenDevelopement" target="24" />
     </bytecodeTargetLevel>
   </component>
 </project>
