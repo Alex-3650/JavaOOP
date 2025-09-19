@@ -14,6 +14,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="21">
+      <module name="DesignPattern" target="24" />
       <module name="TestDrivenDevelopement" target="24" />
     </bytecodeTargetLevel>
   </component>
