@@ -11,10 +11,12 @@
         <option value="$PROJECT_DIR$/TestDrivenDevelopment/pom.xml" />
         <option value="$PROJECT_DIR$/TestDrivenDevelopement/pom.xml" />
         <option value="$PROJECT_DIR$/TestDrivenDevelopmentExercise/pom.xml" />
+        <option value="$PROJECT_DIR$/DesignPattern/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/DesignPattern/pom.xml" />
         <option value="$PROJECT_DIR$/TestDrivenDevelopement/pom.xml" />
         <option value="$PROJECT_DIR$/UnitTesting/pom.xml" />
       </set>
